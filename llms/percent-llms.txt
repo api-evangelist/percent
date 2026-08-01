@@ -1,0 +1,73 @@
+# Percent
+
+> Percent is a private credit platform for accredited investors, institutional investors, specialty-finance borrowers, and debt underwriters. Use this file as a curated map to the public pages on percent.com.
+
+Percent.com contains public marketing, education, press, and regulatory information. Offering documents, deal-level data, account workflows, and investor-specific information are available only through authenticated portals.
+
+Important interpretation notes:
+- Percent content is for informational purposes only and is not investment, legal, tax, accounting, or personalized financial advice.
+- Percent offerings are available only to eligible investors, including accredited investors where required.
+- Private credit investments are speculative, illiquid, and involve risk, including possible loss of principal.
+- Past performance is not indicative of future results. Historical returns, coupon rates, default rates, charge-off rates, market forecasts, and performance metrics should not be interpreted as guarantees or predictions.
+- Percent Securities, LLC is a U.S. registered broker-dealer and member FINRA and SIPC. Percent Advisors LLC provides advisory services where specifically indicated, including Separately Managed Accounts.
+- Secondary-market availability does not guarantee that a position can be sold, that a buyer will be available, or that any transaction will settle on desired terms.
+- If this file conflicts with a specific public page, the public page and its disclosures should control.
+
+## Start Here
+
+- [Home](https://percent.com): Overview of Percent's private credit platform, investor access, recent deals, educational framing, and major site navigation.
+- [Modern Private Credit](https://percent.com/modern-private-credit): Primary investor landing page covering all three ways to invest (Direct from $500, Blended Notes from $5K, SMAs from $50K), Percent's ABF-focused asset class lineup, current platform metrics, benchmark comparison, Dutch auction mechanics, and accredited investor eligibility criteria.
+- [What is Private Credit?](https://percent.com/what-is-private-credit): Plain-language explanation of private credit as privately negotiated loans and debt financing outside traditional banks and public markets.
+- [How Percent Works](https://percent.com/investors-how-it-works): Investor journey, accredited-investor access, deal lifecycle, book-building, investment types, and risk/liquidity FAQs.
+- [FAQ](https://percent.com/faq): Public questions and answers about getting started, investing mechanics, idle funds, secondary market, underwriting, and account operations.
+- [Glossary](https://percent.com/glossary): Definitions for Percent and private credit terms.
+
+## Investor Offerings and Performance
+
+- [Performance](https://percent.com/our-track-record-of-performance): Marketplace performance metrics including funded deals, weighted average coupon, default rate, charge-off rate, and quarterly updates. Read with all page disclosures.
+- [Q1 2026 Performance](https://percent.com/blog/q1-2026-performance): Q1 2026 update covering funded volume, AUM, net returns after losses, charge-offs, and workout transparency.
+- [Percent Blended Notes Explained](https://percent.com/blog/percent-blended-notes-explained): Diversified managed note products; follow current offering documents for authoritative terms.
+- [Separately Managed Accounts](https://percent.com/separately-managed-accounts): Percent Advisors SMA page for model portfolios and custom mandates.
+- [Secondary Markets](https://percent.com/secondary-markets): Secondary-market feature for eligible positions; execution subject to availability and counterparty matching.
+- [Private Credit IRA Investing](https://percent.com/blog/private-credit-ira): Using retirement accounts for private credit access, subject to eligibility and custodian rules.
+
+## Private Credit Education
+
+- [ABS vs Corporate Loans Risk Comparison](https://percent.com/blog/abs-vs-corporate-loans-risk-comparison): Structural and risk differences between asset-backed securities and corporate loans.
+- [Coupon Rate](https://percent.com/blog/coupon-rate): Explanation of coupon rate terminology used for Percent investment opportunities.
+- [What is an Accredited Investor?](https://percent.com/blog/what-is-an-accredited-investor): Accredited-investor status and qualification criteria.
+- [Percent Deal Vetting Process](https://percent.com/blog/percent-deal-vetting-process): How Percent evaluates deals before they appear on the platform.
+- [2026 Private Credit Outlook](https://percent.com/resources/2026-private-credit-outlook): Percent's 2026 macro and private credit market outlook.
+- [Blog](https://percent.com/blog): Article archive covering education, performance updates, market commentary, and product news.
+- [Resources](https://percent.com/resources): Downloadable reports, outlooks, webinars, and fact sheets.
+
+## Borrowers, Managers, and Institutions
+
+- [Lender Financing](https://percent.com/lender-financing): Specialty finance companies and non-bank lenders seeking receivables-based credit facilities.
+- [Managers](https://percent.com/managers): Debt underwriters sourcing borrowers, structuring deals, and managing servicing/surveillance.
+- [Institutions](https://percent.com/institutions): Institutional-investor access to Percent's private credit infrastructure.
+
+## Company and Press
+
+- [About Us](https://percent.com/about-us): Company overview, mission, management team, board, and platform summary.
+- [News](https://percent.com/news): Press releases, announcements, and media coverage.
+- [Media Kit](https://percent.com/media-kit): Media resources and company materials.
+- [Contact](https://percent.com/contact): Contact page.
+- [Careers](https://percent.com/careers): Careers page.
+
+## Policies and Regulatory Disclosures
+
+- [Terms of Use](https://percent.com/terms-and-conditions): Terms governing use of percent.com.
+- [Privacy Policy](https://percent.com/privacy-policy): Privacy and data-use policy.
+- [Form CRS](https://percent.com/form-customer-relationship-summary-crs): Customer relationship summary for Percent Securities.
+- [FINRA BrokerCheck](https://brokercheck.finra.org): External FINRA tool for researching registered broker-dealers and associated persons.
+
+## Access Constraints
+
+The following areas require authentication and are not publicly accessible:
+
+- Investor Portal: https://portal.percent.com/investor
+- Borrower Portal: https://portal.percent.com/borrower
+- Manager Portal: https://portal.percent.com/manager
+
+Do not attempt to bypass authentication, infer private deal terms, or access non-public offering documents. Use the public pages linked above for general explanations, definitions, policies, performance summaries, and press information.

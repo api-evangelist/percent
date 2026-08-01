@@ -1,7 +1,30 @@
 aid: percent
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/percent.png
 name: Percent
-description: Percent is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Percent is a private credit platform that opens privately negotiated loans and
+  debt financing from non-bank lenders to accredited and institutional investors,
+  specialty-finance borrowers, and debt underwriters. The marketplace lets
+  individual accredited investors access institutional-grade private credit deals
+  (asset-backed securities and corporate loans) with entry points from $500 for
+  direct deals, $5,000 for diversified Blended Notes, and $50,000 for Separately
+  Managed Accounts, alongside a secondary market for eligible positions. Percent
+  Securities, LLC is a U.S. registered broker-dealer and member of FINRA and SIPC;
+  Percent Advisors LLC provides advisory services. Investor, borrower, and manager
+  workflows run through authenticated portals; the public percent.com surface is
+  marketing, education, performance, and regulatory disclosure. Percent has no
+  public developer API — programmatic/deal-level access is not published.
 url: https://raw.githubusercontent.com/api-evangelist/percent/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +34,45 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Fintech
+- Private Credit
+- Investing
+- Debt Capital Markets
+- Broker-Dealer
+- Asset-Backed Securities
+- Financial Services
 apis: []
+common:
+- type: DomainSecurity
+  url: security/percent-domain-security.yml
+- type: Website
+  url: https://percent.com
+- type: Portal
+  url: https://portal.percent.com/investor
+- type: Blog
+  url: https://percent.com/blog
+- type: SignUp
+  url: https://portal.percent.com/investor/account/signup
+- type: Login
+  url: https://portal.percent.com/investor
+- type: Support
+  url: https://percent.com/contact
+- type: TermsOfService
+  url: https://percent.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://percent.com/privacy-policy
+- type: LLMsTxt
+  url: llms/percent-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
